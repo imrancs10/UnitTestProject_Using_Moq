@@ -1,0 +1,6 @@
+C:\Users\sheikhimran\Desktop\POC\MoqTesting_POC\MoqDemo_POC\MoqDemo_POC\bin\Debug\MoqDemo_POC.exe.config
+C:\Users\sheikhimran\Desktop\POC\MoqTesting_POC\MoqDemo_POC\MoqDemo_POC\bin\Debug\MoqDemo_POC.exe
+C:\Users\sheikhimran\Desktop\POC\MoqTesting_POC\MoqDemo_POC\MoqDemo_POC\bin\Debug\MoqDemo_POC.pdb
+C:\Users\sheikhimran\Desktop\POC\MoqTesting_POC\MoqDemo_POC\MoqDemo_POC\obj\Debug\MoqDemo_POC.csprojResolveAssemblyReference.cache
+C:\Users\sheikhimran\Desktop\POC\MoqTesting_POC\MoqDemo_POC\MoqDemo_POC\obj\Debug\MoqDemo_POC.exe
+C:\Users\sheikhimran\Desktop\POC\MoqTesting_POC\MoqDemo_POC\MoqDemo_POC\obj\Debug\MoqDemo_POC.pdb

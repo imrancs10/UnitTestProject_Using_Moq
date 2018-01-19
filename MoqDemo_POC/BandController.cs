@@ -22,7 +22,6 @@ namespace MoqDemo_POC
                 if (band.Name == "Band New 2")
                 {
                     Console.WriteLine("I love this song");
-                    Console.ReadLine();
                 }
             }
         }
